@@ -1,0 +1,15 @@
+/Users/petr/Desktop/HomeWork C#/Homewrk2/bin/Debug/net7.0/Homewrk2
+/Users/petr/Desktop/HomeWork C#/Homewrk2/bin/Debug/net7.0/Homewrk2.deps.json
+/Users/petr/Desktop/HomeWork C#/Homewrk2/bin/Debug/net7.0/Homewrk2.runtimeconfig.json
+/Users/petr/Desktop/HomeWork C#/Homewrk2/bin/Debug/net7.0/Homewrk2.dll
+/Users/petr/Desktop/HomeWork C#/Homewrk2/bin/Debug/net7.0/Homewrk2.pdb
+/Users/petr/Desktop/HomeWork C#/Homewrk2/obj/Debug/net7.0/Homewrk2.csproj.AssemblyReference.cache
+/Users/petr/Desktop/HomeWork C#/Homewrk2/obj/Debug/net7.0/Homewrk2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/petr/Desktop/HomeWork C#/Homewrk2/obj/Debug/net7.0/Homewrk2.AssemblyInfoInputs.cache
+/Users/petr/Desktop/HomeWork C#/Homewrk2/obj/Debug/net7.0/Homewrk2.AssemblyInfo.cs
+/Users/petr/Desktop/HomeWork C#/Homewrk2/obj/Debug/net7.0/Homewrk2.csproj.CoreCompileInputs.cache
+/Users/petr/Desktop/HomeWork C#/Homewrk2/obj/Debug/net7.0/Homewrk2.dll
+/Users/petr/Desktop/HomeWork C#/Homewrk2/obj/Debug/net7.0/refint/Homewrk2.dll
+/Users/petr/Desktop/HomeWork C#/Homewrk2/obj/Debug/net7.0/Homewrk2.pdb
+/Users/petr/Desktop/HomeWork C#/Homewrk2/obj/Debug/net7.0/Homewrk2.genruntimeconfig.cache
+/Users/petr/Desktop/HomeWork C#/Homewrk2/obj/Debug/net7.0/ref/Homewrk2.dll
