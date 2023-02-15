@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/petr/Desktop/HomeWork C#/Homewrk2/Homewrk2.csproj": {}
+    "/Users/petr/Desktop/HomeWork C#/Homework2/Homework2.csproj": {}
   },
   "projects": {
-    "/Users/petr/Desktop/HomeWork C#/Homewrk2/Homewrk2.csproj": {
+    "/Users/petr/Desktop/HomeWork C#/Homework2/Homework2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/petr/Desktop/HomeWork C#/Homewrk2/Homewrk2.csproj",
-        "projectName": "Homewrk2",
-        "projectPath": "/Users/petr/Desktop/HomeWork C#/Homewrk2/Homewrk2.csproj",
+        "projectUniqueName": "/Users/petr/Desktop/HomeWork C#/Homework2/Homework2.csproj",
+        "projectName": "Homework2",
+        "projectPath": "/Users/petr/Desktop/HomeWork C#/Homework2/Homework2.csproj",
         "packagesPath": "/Users/petr/.nuget/packages/",
-        "outputPath": "/Users/petr/Desktop/HomeWork C#/Homewrk2/obj/",
+        "outputPath": "/Users/petr/Desktop/HomeWork C#/Homework2/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/petr/.nuget/NuGet/NuGet.Config"
